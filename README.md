@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and reading
 - 🌱 I’m currently learning #Vue, #Electron, #TypeScript, #Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 📫 Reach me via github
 
 <!---
 ronghai/ronghai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
